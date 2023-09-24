@@ -13,3 +13,5 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 2. "Feels like" Temperature
 3. Wind Speed
 4. weather report
+
+Author - Chandra Bhushan Patel
